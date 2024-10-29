@@ -1,6 +1,10 @@
 # Pneumonia Detection System 
 This Pneumonia Detection System is a deep learning-based web application designed to assist in the detection of pneumonia from chest X-ray images. Built using Convolutional Neural Networks (CNNs) for image classification and a Flask app for a simple user interface, this system provides users with an accessible and intuitive diagnostic tool.
 
+![User Interface screenshot](Screenshot 2024-10-29 164507.png)
+
+![Demo](Screenshot 2024-10-29 164449.png)
+
 # Features 
 
   • Pneumonia Detection: Uses a pre-trained CNN model to analyze and classify chest X-ray images as "Normal" or "Pneumonia".
